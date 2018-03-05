@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Discart</string>
+
+    <string name="fb_app_id">228210687723218</string>
+    <string name="account_kit_client_token">0b4e3717be8e95cdf5be8176794c6fbb</string>
+    <string name="ak_login_protocol_schema">ak0b4e3717be8e95cdf5be8176794c6fbb</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
